@@ -3,8 +3,6 @@
 ##  Description:
 This data-driven initiative aims to identify potential "blue zones" across the various US states. Blue zones are places where people are generally happy and live long lives. Motivated by the global blue zone classification standards, our research will collect and analyze a broad spectrum of health, lifestyle, social, and environmental data to achieve this objective.This repository houses the data and code for our data-driven initiative.
 
-
-
 ## Citation
 Coming up soon.
 
