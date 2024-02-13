@@ -42,25 +42,34 @@ This repository houses the code and data for a data-driven initiative aimed at i
     └── results                <- Folder to store Final analysis and modelling results and code.
 
 
-# Citation:
+
+
+# Citation
 
 Coming up soon.
-Feedback and Collaboration:
+
+## Feedback and Collaboration
+
 We welcome feedback and collaboration opportunities. Feel free to reach out to the project maintainers with any questions, suggestions, or collaboration proposals.
 
-# Maintainers:
+## Maintainers
 
-[Name]
-[Name]
+- [Name]
+- [Name]
 
-# License:
+## License
+
 This project is licensed under the [License Name] License. See the LICENSE file for details.
 
-# Acknowledgments:
+## Acknowledgments
+
 We acknowledge the contributions of all individuals and organizations whose data and resources were used in this project. Special thanks to [list any specific acknowledgments].
 
-# Disclaimer:
+## Disclaimer
+
 This project is for research and educational purposes only. The findings and conclusions presented here may not be scientifically validated and should be interpreted with caution.
 
-Contact:
+## Contact
+
 For inquiries, please contact [email address].
+
