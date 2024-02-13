@@ -40,36 +40,18 @@ This repository houses the code and data for a data-driven initiative aimed at i
     ├── visualizations         <- Code and Visualization dashboards generated for the project
     │
     └── results                <- Folder to store Final analysis and modelling results and code.
+'''markdown
+
+## Citations
 
 
 
 
-# Citation
 
-Coming up soon.
+# Acknowledgement
 
-## Feedback and Collaboration
 
-We welcome feedback and collaboration opportunities. Feel free to reach out to the project maintainers with any questions, suggestions, or collaboration proposals.
 
-## Maintainers
 
-- [Name]
-- [Name]
 
-## License
-
-This project is licensed under the [License Name] License. See the LICENSE file for details.
-
-## Acknowledgments
-
-We acknowledge the contributions of all individuals and organizations whose data and resources were used in this project. Special thanks to [list any specific acknowledgments].
-
-## Disclaimer
-
-This project is for research and educational purposes only. The findings and conclusions presented here may not be scientifically validated and should be interpreted with caution.
-
-## Contact
-
-For inquiries, please contact [email address].
 
