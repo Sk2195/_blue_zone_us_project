@@ -40,11 +40,18 @@ This repository houses the code and data for a data-driven initiative aimed at i
     ├── visualizations         <- Code and Visualization dashboards generated for the project
     │
     └── results                <- Folder to store Final analysis and modelling results and code.
+
 '''markdown
+
+<!-- End of Folder Structure section -->
 
 ## Citations
 
+Coming soon.
 
+## Acknowledgments
+
+We acknowledge the contributions of all individuals and organizations whose data and resources were used in this project. Special thanks to [list any specific acknowledgments].
 
 
 
